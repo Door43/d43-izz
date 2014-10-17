@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[izz:home|Door43 (izz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-izz|d43-izz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-izz/archive/master.zip|d43-izz.zip]]
+
+**Recent Changes**
+{{changes>ns = izz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/izz|Ethnologue data]]
+
